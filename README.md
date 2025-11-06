@@ -69,7 +69,7 @@ Here are the technologies I'm proficient with and currently exploring.
   <img src="https://github-readme-stats.vercel.app/api?username=Neovin-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Naveen's GitHub Stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neovin-dev&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&langs_count=8" alt="Naveen's Top Languages" width="48%"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Neovin-dev&theme=tokyonight&hide_border=true" alt="Naveen's GitHub Streak" width="60%"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?Neovin-dev=DenverCoder1)](https://git.io/streak-stats)
 </div>
 
 ---
